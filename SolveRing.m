@@ -19,3 +19,4 @@ hold on;
 plot(t, sol);
 xlabel('Time');
 ylabel('var');
+
